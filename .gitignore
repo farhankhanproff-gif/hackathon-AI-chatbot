@@ -1,11 +1,11 @@
 # Virtual environment
 AIchatbot/
 venv/
-env/
+#env/
 
 # Environment variables
-.env
-*.env
+#.env
+#*.env
 
 # Build artifacts
 build/
