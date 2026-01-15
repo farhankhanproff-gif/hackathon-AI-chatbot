@@ -1,0 +1,26 @@
+# Virtual environment
+AIchatbot/
+venv/
+env/
+
+# Environment variables
+.env
+*.env
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.dist-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
